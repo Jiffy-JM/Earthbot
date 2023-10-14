@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: replit-ai
+Version: 0.0.11
+Summary: A library for interacting with AI features of replit
+Home-page: https://github.com/replit/replit-ai-python
+License: ISC
+Author: Repl.it
+Author-email: contact@repl.it
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved
+Classifier: License :: OSI Approved :: ISC License (ISCL)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: aiohttp (>=3.8.5,<4.0.0)
+Requires-Dist: google-api-python-client (>=2.98.0,<3.0.0)
+Requires-Dist: pydantic (>=2.3.0,<3.0.0)
+Requires-Dist: pyseto (>=1.7.3,<2.0.0)
+Requires-Dist: pytest-asyncio (>=0.21.1,<0.22.0)
+Requires-Dist: requests (>=2.31.0,<3.0.0)
+Project-URL: Documentation, https://replit-ai-python.readthedocs.org/
+Project-URL: Repository, https://github.com/replit/replit-ai-python
+Description-Content-Type: text/markdown
+
+# Replit AI
+
+Coming soon...
+
